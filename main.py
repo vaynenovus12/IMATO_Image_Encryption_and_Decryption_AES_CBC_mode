@@ -27,10 +27,16 @@ splash_root.overrideredirect(True)
 splash_root.columnconfigure(0, weight=3)
 
 app_name = Label(text="IMATO", font=("Modern Warfare", 29))
-app_name.grid(row=1)
+app_name.grid(column=0, row=0)
 
 dev_team_label = Label(text="Developed by Team Inventor", font=("Modern Warfare", 16))
-dev_team_label.grid(row=2)
+dev_team_label.grid(column=0, row=1)
+
+image = Image.open("resources/cod_splashscreen.jpg")
+photo = ImageTk.PhotoImage(image.resize((650, 350), Image.LANCZOS))
+img_label = Label(splash_root, image=photo)
+img_label.image = photo
+img_label.grid(column=0, row=2)
 
 open_gif = Image.open("resources/loading_anim.gif")
 frames = open_gif.n_frames
