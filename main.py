@@ -123,7 +123,7 @@ def main_window():
             resized_image = image1
         img = ImageTk.PhotoImage(resized_image)
         imageLabel.image = img
-        imageLabel.configure(image=img, width=800, height=600)
+        imageLabel.configure(image=img, width=600, height=400)
         imageLabel.grid(column=0, row=3, sticky=tkinter.W)
         print(filename)
 
@@ -137,8 +137,8 @@ def main_window():
         else:
             resized_image = result_image
         img_res = ImageTk.PhotoImage(resized_image)
-        imageLabel.image = img_res
-        resultImgLabel.configure(image=img_res, width=800, height=600)
+        resultImgLabel.image = img_res
+        resultImgLabel.configure(image=img_res, width=600, height=400)
         resultImgLabel.grid(column=0, row=3, sticky=tkinter.E)
         messagebox.showinfo("Info", "Encrypted image has been saved.")
         image1.close()
@@ -174,7 +174,7 @@ def main_window():
             resized_image = image2
         img2 = ImageTk.PhotoImage(resized_image)
         imageLabel.image = img2
-        imageLabel.configure(image=img2, width=800, height=600)
+        imageLabel.configure(image=img2, width=600, height=400)
         imageLabel.grid(column=0, row=3, sticky=tkinter.W)
 
         result_image = Image.open("decrypted_img.PNG")
@@ -187,8 +187,8 @@ def main_window():
         else:
             resized_image = result_image
         imgres = ImageTk.PhotoImage(resized_image)
-        imageLabel.image = imgres
-        resultImgLabel.configure(image=imgres, width=800, height=600)
+        resultImgLabel.image = imgres
+        resultImgLabel.configure(image=imgres, width=600, height=400)
         resultImgLabel.grid(column=0, row=3, sticky=tkinter.E)
         messagebox.showinfo("Info", "Decrypted image has been saved.")
         image2.close()
