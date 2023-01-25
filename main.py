@@ -146,8 +146,9 @@ def main_window():
     def process_img_decrypt():
         key_decrypt = key_field.get()
 
+        filename = askopenfilename()
         # Opens image and converts it to RGB format for PIL
-        image2 = Image.open("encrypted_img.PNG")
+        image2 = Image.open(filename)
         data = image2.convert("RGB").tobytes()
 
         # Since we will unpad the data to satisfy AES's multiple-of-16 requirement, we will store the original data
