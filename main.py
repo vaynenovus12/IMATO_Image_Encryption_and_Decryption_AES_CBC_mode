@@ -123,7 +123,7 @@ def main_window():
             resized_image = image1
         img = ImageTk.PhotoImage(resized_image)
         imageLabel.image = img
-        imageLabel.configure(image=img, width=800, height=600)
+        imageLabel.configure(image=img, width=600, height=400)
         imageLabel.grid(column=0, row=3, sticky=tkinter.W)
         print(filename)
 
@@ -137,8 +137,8 @@ def main_window():
         else:
             resized_image = result_image
         img_res = ImageTk.PhotoImage(resized_image)
-        imageLabel.image = img_res
-        resultImgLabel.configure(image=img_res, width=800, height=600)
+        resultImgLabel.image = img_res
+        resultImgLabel.configure(image=img_res, width=600, height=400)
         resultImgLabel.grid(column=0, row=3, sticky=tkinter.E)
         messagebox.showinfo("Info", "Encrypted image has been saved.")
         image1.close()
@@ -146,8 +146,9 @@ def main_window():
     def process_img_decrypt():
         key_decrypt = key_field.get()
 
+        filename = askopenfilename()
         # Opens image and converts it to RGB format for PIL
-        image2 = Image.open("encrypted_img.PNG")
+        image2 = Image.open(filename)
         data = image2.convert("RGB").tobytes()
 
         # Since we will unpad the data to satisfy AES's multiple-of-16 requirement, we will store the original data
@@ -174,7 +175,7 @@ def main_window():
             resized_image = image2
         img2 = ImageTk.PhotoImage(resized_image)
         imageLabel.image = img2
-        imageLabel.configure(image=img2, width=800, height=600)
+        imageLabel.configure(image=img2, width=600, height=400)
         imageLabel.grid(column=0, row=3, sticky=tkinter.W)
 
         result_image = Image.open("decrypted_img.PNG")
@@ -187,8 +188,8 @@ def main_window():
         else:
             resized_image = result_image
         imgres = ImageTk.PhotoImage(resized_image)
-        imageLabel.image = imgres
-        resultImgLabel.configure(image=imgres, width=800, height=600)
+        resultImgLabel.image = imgres
+        resultImgLabel.configure(image=imgres, width=600, height=400)
         resultImgLabel.grid(column=0, row=3, sticky=tkinter.E)
         messagebox.showinfo("Info", "Decrypted image has been saved.")
         image2.close()
