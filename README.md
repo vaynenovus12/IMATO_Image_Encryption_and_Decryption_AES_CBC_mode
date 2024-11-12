@@ -41,6 +41,8 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
+<video src='https://www.youtube.com/watch?v=vujiFT4cQm8' width=180/>
+
 ## Key Features
 
 * AES-CBC Encryption: Encrypts images using the AES algorithm in CBC mode with a user-defined key
@@ -68,7 +70,7 @@ $ python main.py
 ```
 
 > **Note**
-> Ensure that your Python environment is correctly set up with the required dependencies. This application has been tested with Python 3.8 and above. If you encounter issues, verify that all libraries in requirements.txt are installed and that your Python version is compatible
+> Ensure that your Python environment is correctly set up with the required dependencies. This application has been tested with Python 3.11 and above. If you encounter issues, verify that all libraries in requirements.txt are installed and that your Python version is compatible
 
 
 ## Credits
