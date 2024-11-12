@@ -1,25 +1,3 @@
-# Cryptography and Application Project
-Application Name: IMATO
-Application Type: Image encryption and decryption using AES (CBC mode)
-
-IMATO is an image encryption and decryption application that leverages AES encryption in CBC mode. The app is developed with Python and Tkinter, providing a graphical user interface to encrypt and decrypt images securely.
-
-IMATO is an image encryption and decryption application that leverages AES encryption in CBC mode. The app is developed with Python and Tkinter, providing a graphical user interface to encrypt and decrypt images securely.
-
-[Table of Contents](url)
-Features
-Installation
-Usage
-Encryption Process
-Decryption Process
-Contributing
-License
-
-
-![Screenshot 2023-05-10 204548](https://github.com/vaynenovus12/IMATO_Image_Encryption_and_Decryption_AES_CBC_mode/assets/60596261/70efb556-1186-40e6-b196-fa869caa1cac)
-
-
-
 <h1 align="center">
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
@@ -28,7 +6,7 @@ License
   <br>
 </h1>
 
-<h4 align="center">IMATO is an image encryption and decryption application that leverages AES encryption in CBC mode. The app is developed with Python and <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">Tkinter</a>.</h4>, providing a graphical user interface to encrypt and decrypt images securely.
+<h4 align="center">IMATO is an image encryption and decryption application that leverages AES encryption in CBC mode. The app is developed with Python and <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">Tkinter</a>, providing a graphical user interface to encrypt and decrypt images securely.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
