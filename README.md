@@ -55,16 +55,16 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/vaynenovus12/IMATO_Image_Encryption_and_Decryption_AES_CBC_mode.git
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd cd IMATO_Image_Encryption_and_Decryption_AES_CBC_mode
 
-# Install dependencies
-$ npm install
+# Install the required dependencies
+$ pip install -r requirements.txt
 
-# Run the app
-$ npm start
+# Run the application
+$ python main.py
 ```
 
 > **Note**
@@ -82,10 +82,6 @@ This software uses the following open source packages:
 - [CodeMirror](http://codemirror.net/)
 - Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
 - [highlight.js](https://highlightjs.org/)
-
-## Related
-
-[markdownify-web](https://github.com/amitmerchant1990/markdownify-web) - Web version of Markdownify
 
 ## License
 
