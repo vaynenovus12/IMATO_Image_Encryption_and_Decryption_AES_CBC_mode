@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  ![](https://github.com/vaynenovus12/gif_vaynenovus/blob/main/IMATO_gif/IMATO_1.gif)
+  <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200">
   <br>
   IMATO
   <br>
@@ -86,4 +86,3 @@ BSD 2-Clause license
 
 > GitHub [@vaynenovus12](https://github.com/vaynenovus12) &nbsp;&middot;&nbsp;
 > Twitter [@vaynenovus12](https://twitter.com/vaynenovus12)
-
