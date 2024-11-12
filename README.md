@@ -39,7 +39,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![](https://github.com/vaynenovus12/gif_vaynenovus/blob/main/IMATO_gif/IMATO_1.gif)
 
 ## Key Features
 
