@@ -37,7 +37,7 @@
   <a href="#license">License</a>
 </p>
 
-![](https://github.com/vaynenovus12/gif_vaynenovus/blob/main/IMATO_gif/IMATO_1.gif)
+![IMATO_1](https://github.com/user-attachments/assets/131401ac-65c8-49b3-83ff-842f2ea69aa9)
 
 ## Key Features
 
