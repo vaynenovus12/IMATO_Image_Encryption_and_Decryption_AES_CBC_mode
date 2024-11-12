@@ -43,23 +43,11 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* AES-CBC Encryption: Encrypts images using the AES algorithm in CBC mode with a user-defined key
+* Secure Storage: Generates an encrypted image that can only be decrypted with the correct key
+* User Interface: Built with Tkinter for an intuitive GUI  
+* Splash Screen: Displays a loading animation and information about the app's development team
+* Full-Screen Support: Runs in full screen with high-resolution images
 
 ## How To Use
 
