@@ -21,6 +21,10 @@
     <img src="https://readthedocs.org/projects/pip/badge/?version=latest"
          alt="Documentation">
   </a>
+  <a href="https://pypi.org/project/pycryptodome/">
+    <img src="https://badge.fury.io/py/pycryptodome.svg"
+         alt="pycryptodome 3.21.0">
+  </a>
 </p>
 
 <p align="center">
