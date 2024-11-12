@@ -24,11 +24,11 @@ License
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
   <br>
-  Markdownify
+  IMATO
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">IMATO is an image encryption and decryption application that leverages AES encryption in CBC mode. The app is developed with Python and <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">Tkinter</a>.</h4>, providing a graphical user interface to encrypt and decrypt images securely.
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
