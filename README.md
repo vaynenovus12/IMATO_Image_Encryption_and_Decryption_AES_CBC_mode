@@ -63,6 +63,18 @@ $ pip install -r requirements.txt
 
 # Run the application
 $ python main.py
+
+Encrypt:
+1) Enter a 16-character key in the input field.
+2) Select an image to encrypt by clicking the Encrypt button.
+3) Encrypted image will be saved as encrypted_img.PNG.
+4) Decrypt:
+
+Decrypt:
+1) Enter the correct key in the input field.
+2) Select the encrypted image by clicking the Decrypt button.
+3) Decrypted image will be saved as decrypted_img.PNG.
+
 ```
 
 > **Note**
