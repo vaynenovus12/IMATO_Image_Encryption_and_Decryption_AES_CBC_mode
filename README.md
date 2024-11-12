@@ -9,9 +9,9 @@
 <h4 align="center">IMATO is an image encryption and decryption application that leverages AES encryption in CBC mode. The app is developed with Python and <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">Tkinter</a>, providing a graphical user interface to encrypt and decrypt images securely.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
+  <a href="https://pypi.org/project/pip/">
+    <img src="https://img.shields.io/pypi/v/pip.svg"
+         alt="PyPI">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
@@ -21,17 +21,6 @@
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
-.. |pypi-version| image:: https://img.shields.io/pypi/v/pip.svg
-   :target: https://pypi.org/project/pip/
-   :alt: PyPI
-
-.. |python-versions| image:: https://img.shields.io/pypi/pyversions/pip
-   :target: https://pypi.org/project/pip
-   :alt: PyPI - Python Version
-
-.. |docs-badge| image:: https://readthedocs.org/projects/pip/badge/?version=latest
-   :target: https://pip.pypa.io/en/latest
-   :alt: Documentation
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
