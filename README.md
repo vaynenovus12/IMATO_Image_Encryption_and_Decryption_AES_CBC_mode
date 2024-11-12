@@ -25,6 +25,9 @@
     <img src="https://badge.fury.io/py/pycryptodome.svg"
          alt="pycryptodome 3.21.0">
   </a>
+  <a href="https://pypi.org/project/pillow/"><img
+                alt="Newest PyPI version"
+                src="https://img.shields.io/pypi/v/pillow.svg"></a>
 </p>
 
 <p align="center">
