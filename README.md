@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200">
+  ![IMATO_logo](https://github.com/user-attachments/assets/2cac09ea-9581-4ebb-befb-52cd9231528b)
   <br>
   IMATO
   <br>
