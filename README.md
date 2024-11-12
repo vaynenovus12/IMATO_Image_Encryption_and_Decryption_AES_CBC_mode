@@ -68,7 +68,7 @@ $ python main.py
 ```
 
 > **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+> Ensure that your Python environment is correctly set up with the required dependencies. This application has been tested with Python 3.8 and above. If you encounter issues, verify that all libraries in requirements.txt are installed and that your Python version is compatible
 
 
 ## Credits
