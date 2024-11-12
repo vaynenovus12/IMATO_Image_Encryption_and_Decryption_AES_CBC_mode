@@ -63,6 +63,10 @@ $ pip install -r requirements.txt
 
 # Run the application
 $ python main.py
+```
+
+> **Note**
+> Ensure that your Python environment is correctly set up with the required dependencies. This application has been tested with Python 3.11 and above. If you encounter issues, verify that all libraries in requirements.txt are installed and that your Python version is compatible
 
 Encrypt:
 1) Enter a 16-character key in the input field.
@@ -74,11 +78,6 @@ Decrypt:
 1) Enter the correct key in the input field.
 2) Select the encrypted image by clicking the Decrypt button.
 3) Decrypted image will be saved as decrypted_img.PNG.
-
-```
-
-> **Note**
-> Ensure that your Python environment is correctly set up with the required dependencies. This application has been tested with Python 3.11 and above. If you encounter issues, verify that all libraries in requirements.txt are installed and that your Python version is compatible
 
 
 ## Credits
