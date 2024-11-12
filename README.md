@@ -75,17 +75,12 @@ $ python main.py
 
 This software uses the following open source packages:
 
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+- [Python Imaging Libray (Pillow)](https://pypi.org/project/pillow/)
+- [PyCryptodome](https://pypi.org/project/pycryptodome/)
 
 ## License
 
-MIT
+BSD 2-Clause license
 
 ---
 
