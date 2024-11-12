@@ -21,6 +21,17 @@
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
+.. |pypi-version| image:: https://img.shields.io/pypi/v/pip.svg
+   :target: https://pypi.org/project/pip/
+   :alt: PyPI
+
+.. |python-versions| image:: https://img.shields.io/pypi/pyversions/pip
+   :target: https://pypi.org/project/pip
+   :alt: PyPI - Python Version
+
+.. |docs-badge| image:: https://readthedocs.org/projects/pip/badge/?version=latest
+   :target: https://pip.pypa.io/en/latest
+   :alt: Documentation
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
