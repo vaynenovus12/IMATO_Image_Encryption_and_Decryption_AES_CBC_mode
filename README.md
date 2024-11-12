@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  ![IMATO_logo](https://github.com/user-attachments/assets/2cac09ea-9581-4ebb-befb-52cd9231528b)
+  <a href="#"><img src="https://github.com/user-attachments/assets/2cac09ea-9581-4ebb-befb-52cd9231528b" alt="IMATO" width="200"></a>
   <br>
   IMATO
   <br>
