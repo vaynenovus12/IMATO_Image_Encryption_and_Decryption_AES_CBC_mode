@@ -6,7 +6,7 @@ IMATO is an image encryption and decryption application that leverages AES encry
 
 IMATO is an image encryption and decryption application that leverages AES encryption in CBC mode. The app is developed with Python and Tkinter, providing a graphical user interface to encrypt and decrypt images securely.
 
-Table of Contents
+[Table of Contents](url)
 Features
 Installation
 Usage
