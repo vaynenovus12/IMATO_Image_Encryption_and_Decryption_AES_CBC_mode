@@ -41,8 +41,6 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-<video src='https://www.youtube.com/watch?v=vujiFT4cQm8' width=180 height=180/>
-
 ## Key Features
 
 * AES-CBC Encryption: Encrypts images using the AES algorithm in CBC mode with a user-defined key
